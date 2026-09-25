@@ -1,15 +1,92 @@
-# 💫 About Me:
-🚀 I'm currently working on Data Engineering projects<br>🤝 I'm looking to collaborate on Data Engineering & SQL projects<br>💡 I'm looking for help with Data Engineering best practices<br>🌱 I'm currently learning SQL, Python, Databases & Data Engineering<br>💬 Ask me about SQL, MySQL and Data Engineering<br>⚡ Fun fact: I enjoy building practical data projects
+# 👋 Hi, I'm Ankit Kumar
 
+## 🚀 About Me:
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ankitkumar63&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ankitkumar63&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ankitkumar63&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🚀 I'm currently working on **Data Engineering projects**  
+🤝 I'm looking to collaborate on **Data Engineering & SQL projects**  
+💡 I'm looking for help with **Data Engineering best practices**  
+🌱 I'm currently learning **SQL, Python, Databases & Data Engineering**  
+💬 Ask me about **SQL, MySQL and Data Engineering**  
+⚡ Fun fact: I enjoy building practical data projects
+
+## 💻 Tech Stack:
+
+### 🐍 Programming & Database
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### ⚙️ Data Engineering & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### ☁️ Cloud
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 📊 Analytics & Machine Learning
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ankitkumar63&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Data Engineering Skills
+
+- 🗄️ SQL & Database Management
+- 🔄 ETL Pipelines
+- 🧹 Data Cleaning & Transformation
+- 🏗️ Relational Database Design
+- 📦 Data Warehousing
+- 🐍 Python for Data Engineering
+- ☁️ Cloud Data Platforms
+- 🔧 Git & GitHub
+
+---
+
+## 📊 Data Analytics Projects
+
+### 📱 PhonePe Transaction Analysis
+Transaction analysis project using SQL, Power BI and data visualization.
+
+### 🚚 Supply Chain Analytics
+Analysis of shipment and logistics data to identify bottlenecks and business insights.
+
+---
+
+## 🛠️ Data Engineering Projects
+
+### 👨‍💼 Employee Management Database
+MySQL database project for managing employee records, departments and salaries.
+
+### 🎓 Student Registration System
+Database project focused on student records, constraints and data quality.
+
+---
+
+## 📚 Currently Learning
+
+```text
+SQL
+  ↓
+Python
+  ↓
+Databases
+  ↓
+ETL
+  ↓
+Data Warehousing
+  ↓
+Data Pipelines
+  ↓
+Cloud
+  ↓
+Data Engineering
