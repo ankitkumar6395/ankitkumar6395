@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Ankit Kumar
 
-### Aspiring Data Engineer | SQL | Python | Databases | ETL | Cloud
+## Data Engineer | SQL | Python | ETL | Cloud
 
-I am an aspiring Data Engineer focused on building reliable data solutions,
-developing SQL-based systems, working with databases, and learning modern
-data engineering technologies.
+I am building my career in Data Engineering, with a focus on SQL,
+Python, databases, ETL pipelines, data warehousing, and cloud technologies.
 
 ## 👨‍💻 About Me
 
