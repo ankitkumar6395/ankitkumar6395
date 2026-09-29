@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ankit Kumar
 
-### Data Engineer | SQL | Python | Databases | ETL | Cloud
+### Data Engineer | SQL | Python | Databases | ETL | Cloud | SCCM / MECM
 
 I am building my career as a Data Engineer, focused on developing reliable
-data solutions, SQL-based systems, databases, ETL pipelines, and modern
-cloud data technologies.
+data solutions, SQL-based systems, databases, ETL pipelines, modern cloud
+data technologies, and Microsoft Endpoint Management solutions.
 
 ---
 
@@ -13,9 +13,10 @@ cloud data technologies.
 - 🚀 Building **Data Engineering projects**
 - 🌱 Learning **SQL, Python, Databases, ETL & Data Engineering**
 - 🗄️ Working with **MySQL and SQL Server**
+- 🖥️ Working with **SCCM / Microsoft Configuration Manager (MECM)**
 - ☁️ Exploring **Cloud Data Platforms**
 - 📊 Background in **Data Analytics & Business Intelligence**
-- 🤝 Open to collaborating on **Data Engineering and SQL projects**
+- 🤝 Open to collaborating on **Data Engineering, SQL & SCCM projects**
 - 🎯 Career goal: **Data Engineer**
 - ⚡ Fun fact: I enjoy building practical data projects
 
@@ -37,6 +38,12 @@ cloud data technologies.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### 🖥️ Systems & Endpoint Management
+
+![SCCM](https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MECM](https://img.shields.io/badge/MECM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### ☁️ Cloud & Data Platforms
 
@@ -66,6 +73,37 @@ cloud data technologies.
 - Cloud Data Platforms
 - Data Quality
 - Git & Version Control
+
+---
+
+## 🖥️ SCCM / MECM Focus
+
+- Microsoft Configuration Manager (MECM)
+- SCCM Architecture & Site Management
+- Primary Site & Secondary Site
+- Discovery Methods
+- Boundaries & Boundary Groups
+- Collections
+- SCCM Client Management
+- Client Push Installation
+- Group Policy Client Installation
+- Hardware & Software Inventory
+- Software Metering
+- Application & Package Deployment
+- Distribution Points
+- Software Update Point (SUP)
+- WSUS Integration
+- Operating System Deployment (OSD)
+- PXE & Task Sequences
+- Endpoint Protection
+- Compliance Settings
+- Mobile Device Management (MDM)
+- Microsoft Intune
+- Power Management
+- Remote Control
+- Site Maintenance & Monitoring
+- Backup & Recovery
+- SCCM Logs & Troubleshooting
 
 ---
 
@@ -99,6 +137,15 @@ employee records, departments, salaries, and data operations.
 Built a student registration database with primary keys,
 unique constraints, default values, and data-quality rules.
 
+### 🖥️ SCCM / MECM Administration Lab
+
+**SCCM | MECM | Windows Server | SQL Server | PowerShell**
+
+Practicing Microsoft Configuration Manager administration,
+including client management, inventory, software deployment,
+software updates, OSD, compliance, endpoint protection,
+monitoring, and troubleshooting.
+
 ---
 
 ## 📚 Current Learning Path
@@ -119,3 +166,7 @@ Data Pipelines
 Cloud Data Engineering
         ↓
 Real-World Data Engineering Projects
+        ↓
+SCCM / MECM Administration
+        ↓
+Endpoint Management & Automation
