@@ -21,6 +21,8 @@ data technologies, and Microsoft Endpoint Management solutions.
 - ⚡ Fun fact: I enjoy building practical data projects
 
 ---
+## My Certificates Data Engineer
+https://drive.google.com/drive/folders/1mjS2BFukLtA15U-iUvcRETu40AFwdddb
 
 ## 🛠️ Technical Skills
 
