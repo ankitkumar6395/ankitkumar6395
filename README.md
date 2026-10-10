@@ -7,6 +7,9 @@ data solutions, SQL-based systems, databases, ETL pipelines, modern cloud
 data technologies, and Microsoft Endpoint Management solutions.
 
 ---
+## 🎓 My Certificates | Data Engineering 🏆
+📂 [🔗 View My Data Engineering Certificates on Google Drive](https://drive.google.com/drive/folders/1mjS2BFukLtA15U-iUvcRET u40AFwdddb)
+
 
 ## 👨‍💻 About Me
 
@@ -21,8 +24,6 @@ data technologies, and Microsoft Endpoint Management solutions.
 - ⚡ Fun fact: I enjoy building practical data projects
 
 ---
-## 🎓 My Certificates | Data Engineering 🏆
-📂 [🔗 View My Data Engineering Certificates on Google Drive](https://drive.google.com/drive/folders/1mjS2BFukLtA15U-iUvcRET u40AFwdddb)
 
 ## 🛠️ Technical Skills
 
