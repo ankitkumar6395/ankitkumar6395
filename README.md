@@ -8,7 +8,8 @@ data technologies, and Microsoft Endpoint Management solutions.
 
 ---
 ## 🎓 My Certificates | Data Engineering 🏆
-📂 [🔗 View My Data Engineering Certificates on Google Drive](https://drive.google.com/drive/folders/1mjS2BFukLtA15U-iUvcRET u40AFwdddb)
+
+📂 [🔗 View My Data Engineering Certificates on Google Drive](https://drive.google.com/drive/folders/1mjS2BFukLtA15U-iUvcRETu40AFwdddb)
 
 
 ## 👨‍💻 About Me
